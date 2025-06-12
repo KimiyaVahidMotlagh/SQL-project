@@ -2,7 +2,7 @@
 
 
 ### Overview
-This project implements a simple university course management system using SQL Server. It includes data modeling, table creation, sample data insertion, views, and basic user management to simulate interactions between students and professors.
+This project implements a university course management system using SQL Server. It includes data modeling, table creation, sample data insertion, views, and basic user management to simulate interactions between students and professors.
 
 ### Features
 Entity Modeling:
